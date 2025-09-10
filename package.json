@@ -1,0 +1,23 @@
+{
+  "name": "web-dev-class",
+  "version": "1.0.0",
+  "description": "Hello my name is Anokye!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anochi3/Web-dev-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anochi3/Web-dev-class/issues"
+  },
+  "homepage": "https://github.com/anochi3/Web-dev-class#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
